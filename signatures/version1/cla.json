@@ -1,3 +1,12 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "alexey-gruzdev",
+      "id": 77294631,
+      "comment_id": 810971521,
+      "created_at": "2021-03-31T10:52:34Z",
+      "repoId": 353282899,
+      "pullRequestNo": 3
+    }
+  ]
 }
